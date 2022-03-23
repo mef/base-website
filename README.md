@@ -1,3 +1,3 @@
-# alef.website
+# base-website
 
-Website under construction
+Project waiting to be started...
